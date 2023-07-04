@@ -1,2 +1,2 @@
 👋 Hi, I’m Allan!
-I program in JavaScript and python.
+I program in JavaScript and ~~python~~ rust.
